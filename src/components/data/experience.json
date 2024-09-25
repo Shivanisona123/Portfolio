@@ -1,0 +1,20 @@
+[
+    {
+    "id":1,
+    "role":" Learning Algorithms and Problem Solving using Java ",
+    "organisation":"Coding blocks",
+    "startDate":"jun 2023",
+    "endDate":"Dec 2023",
+    "location":"Noida,India",
+    "imageSrc" : "company/coding blocks.png"
+},
+{
+    "id":2,
+    "role":"Learning WebDevelopment ",
+    "organisation":"Udemy.png",
+    "startDate":"Aug 2022",
+    "endDate":"Sep 2022",
+    "location":"Online",
+    "imageSrc" :"company/Udemy.png"
+}
+]
